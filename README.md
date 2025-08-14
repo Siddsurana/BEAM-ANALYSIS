@@ -1,6 +1,6 @@
 # Beam Analysis Project
 
-A comprehensive web-based beam analysis tool developed by students of JSPM's RSCOE (Rajarshi Shahu College of Engineering) for analyzing different types of beam loading scenarios in structural engineering.
+A comprehensive web-based beam analysis tool developed by student of JSPM's RSCOE (Rajarshi Shahu College of Engineering) for analyzing different types of beam loading scenarios in structural engineering.
 
 ## 🏗️ Project Overview
 
@@ -107,13 +107,11 @@ This project serves as an excellent educational tool for:
 
 ## 👥 Team
 
-### Students (SY A Division ENTC Branch)
-- **Siddharth Surana** - Third Year A Div ENTC
-- **Loukik Sancheti** - Third Year B Div
-- **Sahil Arankalle** - Third Year B Div
 
-### Faculty Mentor
-- **Shri Shri Umesh Chirawande** - Faculty/Mentor
+- **Siddharth Surana** - Third Year A Div ENTC
+
+
+
 
 ## 🏫 Institution
 
@@ -130,7 +128,7 @@ This project serves as an excellent educational tool for:
 
 ## 📝 License
 
-This project is developed as an academic mini-project by students of JSPM's RSCOE. It is intended for educational purposes and learning structural analysis concepts.
+This project is developed as an academic project by student of JSPM's RSCOE. It is intended for educational purposes and learning structural analysis concepts.
 
 ## 🤝 Contributing
 
@@ -139,7 +137,7 @@ As this is an academic project, contributions are primarily from the student tea
 ## 📞 Contact
 
 For any queries regarding this project, please contact:
-- **Email**: arankallesahil@gmail.com
+- **Email**:siddharthsurana2605@gmail.com
 - **LinkedIn**: [Siddharth Surana](https://www.linkedin.com/in/siddharthsurana1)
 
 ---
