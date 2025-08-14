@@ -108,7 +108,7 @@ This project serves as an excellent educational tool for:
 ## 👥 Team
 
 
-- **Siddharth Surana** - Third Year A Div ENTC
+- **Siddharth Surana** - Last Year A Div ENTC
 
 
 
